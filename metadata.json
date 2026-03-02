@@ -1,0 +1,7 @@
+{
+  "name": "Koinonikos Tourismos - Vibrant Editor",
+  "description": "A high-end photo retouching application powered by Gemini 2.5 Flash Image. Specialize in 'Vibrant Magazine Look' enhancements and AI-driven image editing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
